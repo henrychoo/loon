@@ -169,14 +169,21 @@
       ]
     },
     {
-      "tag":"👤 社交网络",
+      "tag":"🎸 TikTok",
       "type":"selector",
       "outbounds":[
         "{all}" 
       ]
     },
     {
-      "tag":"🎸 TikTok",
+      "tag":"🐧 Twitter",
+      "type":"selector",
+      "outbounds":[
+        "{all}" 
+      ]
+    },
+    {
+      "tag":"👤 Facebook",
       "type":"selector",
       "outbounds":[
         "{all}" 
@@ -344,19 +351,19 @@
       },
       {
         "rule_set":"geoip-twitter",
-        "outbound": "👤 社交网络"
+        "outbound": "🐧 Twitter"
       },
       {
         "rule_set": "geosite-twitter",
-        "outbound": "👤 社交网络"
+        "outbound": "🐧 Twitter"
       },
       {
         "rule_set": "geoip-facebook",
-        "outbound": "👤 社交网络"
+        "outbound": "👤 Facebook"
       },
       {
         "rule_set":["geosite-facebook","geosite-instagram"],
-        "outbound": "👤 社交网络"
+        "outbound": "👤 Facebook"
       },
       {
         "rule_set": "geosite-spotify",
