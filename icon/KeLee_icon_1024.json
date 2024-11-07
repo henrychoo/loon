@@ -1,0 +1,902 @@
+{
+	"name": "可莉图标",
+	"description": "可莉图标订阅",
+	"icons": [
+		{
+			"name": "Loon",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Loon.png"
+		},
+		{
+			"name": "1.1.1.1",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/1.1.1.1.png"
+		},
+		{
+			"name": "12306",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/12306.png"
+		},
+		{
+			"name": "Adobe Creative Cloud",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Adobe_Creative_Cloud.png"
+		},
+		{
+			"name": "Agenda",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Agenda.png"
+		},
+		{
+			"name": "AppRaven",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/AppRaven.png"
+		},
+		{
+			"name": "Audiomack",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Audiomack.png"
+		},
+		{
+			"name": "Bluesky",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Bluesky.png"
+		},
+		{
+			"name": "ChatGPT",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ChatGPT.png"
+		},
+		{
+			"name": "Claude",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Claude.png"
+		},
+		{
+			"name": "Cubox",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Cubox.png"
+		},
+		{
+			"name": "Darkroom",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Darkroom.png"
+		},
+		{
+			"name": "Dazn",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Dazn.png"
+		},
+		{
+			"name": "Discovery+",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Discovery+.png"
+		},
+		{
+			"name": "Disney+",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Disney+.png"
+		},
+		{
+			"name": "Documents",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Documents.png"
+		},
+		{
+			"name": "Drafts",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Drafts.png"
+		},
+		{
+			"name": "Emby",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Emby.png"
+		},
+		{
+			"name": "Enpass Password Manager",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Enpass_Password_Manager.png"
+		},
+		{
+			"name": "Fileball",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Fileball.png"
+		},
+		{
+			"name": "GitHub",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/GitHub.png"
+		},
+		{
+			"name": "Google",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Google.png"
+		},
+		{
+			"name": "Grow",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Grow.png"
+		},
+		{
+			"name": "Happy:Days",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/HappyDays.png"
+		},
+		{
+			"name": "IT之家",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/IThome.png"
+		},
+		{
+			"name": "Instapaper",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Instapaper.png"
+		},
+		{
+			"name": "JavaScript转换器",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/JavaScriptConverter.png"
+		},
+		{
+			"name": "Line",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Line.png"
+		},
+		{
+			"name": "Netflix",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Netflix.png"
+		},
+		{
+			"name": "Nicegram",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Nicegram.png"
+		},
+		{
+			"name": "Nike",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Nike.png"
+		},
+		{
+			"name": "Notability",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Notability.png"
+		},
+		{
+			"name": "PDF点睛",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PDF_Expert.png"
+		},
+		{
+			"name": "Paramount+",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Paramount+.png"
+		},
+		{
+			"name": "Picsart",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Picsart.png"
+		},
+		{
+			"name": "PikPak",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PikPak.png"
+		},
+		{
+			"name": "Prime Video",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PrimeVideo.png"
+		},
+		{
+			"name": "ProCamera",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ProCamera.png"
+		},
+		{
+			"name": "QQ",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/QQ.png"
+		},
+		{
+			"name": "QQ音乐",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/QQMusic.png"
+		},
+		{
+			"name": "Reddit",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Reddit.png"
+		},
+		{
+			"name": "Safari",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Safari.png"
+		},
+		{
+			"name": "Scanner Pro",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Scanner_Pro.png"
+		},
+		{
+			"name": "Soul",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Soul.png"
+		},
+		{
+			"name": "Spark",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Spark.png"
+		},
+		{
+			"name": "Spotify",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Spotify.png"
+		},
+		{
+			"name": "Stay",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Stay.png"
+		},
+		{
+			"name": "Telegram",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Telegram.png"
+		},
+		{
+			"name": "TestFlight",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TestFlight.png"
+		},
+		{
+			"name": "TikTok",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TikTok.png"
+		},
+		{
+			"name": "TubeMax",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TubeMax.png"
+		},
+		{
+			"name": "VVebo",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/VVebo.png"
+		},
+		{
+			"name": "Xmind",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Xmind.png"
+		},
+		{
+			"name": "YouTube",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YouTube.png"
+		},
+		{
+			"name": "YouTube Music",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YouTubeMusic.png"
+		},
+		{
+			"name": "一键抠图",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/OneClickCutout.png"
+		},
+		{
+			"name": "七猫小说",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SevenCat.png"
+		},
+		{
+			"name": "中国人保",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PICC_Insurance.png"
+		},
+		{
+			"name": "中国移动云盘",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/mobileClouds.png"
+		},
+		{
+			"name": "云闪付",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/UnionPay.png"
+		},
+		{
+			"name": "京东",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/JD.png"
+		},
+		{
+			"name": "什么值得买",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/smzdm.png"
+		},
+		{
+			"name": "优酷视频",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YouKu_Video.png"
+		},
+		{
+			"name": "全民K歌",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/QQKSong.png"
+		},
+		{
+			"name": "半次元",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Bcy.png"
+		},
+		{
+			"name": "哔哩哔哩",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Bilibili.png"
+		},
+		{
+			"name": "唱吧",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Changba.png"
+		},
+		{
+			"name": "喜马拉雅",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Himalaya.png"
+		},
+		{
+			"name": "宝宝树孕育",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/BabyTree.png"
+		},
+		{
+			"name": "小红书",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/RedPaper.png"
+		},
+		{
+			"name": "微信",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Weixin.png"
+		},
+		{
+			"name": "微信小程序",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/WeixinMiniPrograms.png"
+		},
+		{
+			"name": "微博",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Weibo.png"
+		},
+		{
+			"name": "微博轻享版",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Weibo_intl.png"
+		},
+		{
+			"name": "必应",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Bing.png"
+		},
+		{
+			"name": "推栏",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Daily.png"
+		},
+		{
+			"name": "搜图神器",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SearchPicture.png"
+		},
+		{
+			"name": "淘宝",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Taobao.png"
+		},
+		{
+			"name": "爱企查",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Aiinquiry.png"
+		},
+		{
+			"name": "爱奇艺",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/iQiYi_Video.png"
+		},
+		{
+			"name": "番茄小说",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/DragonRead.png"
+		},
+		{
+			"name": "百度",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Baidu.png"
+		},
+		{
+			"name": "百度网盘",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/BaiduNetDisk.png"
+		},
+		{
+			"name": "百度输入法",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Baidu_input_method.png"
+		},
+		{
+			"name": "皮皮虾",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PiPiXia.png"
+		},
+		{
+			"name": "知乎",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Zhihu.png"
+		},
+		{
+			"name": "稿定设计",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/GaoDing.png"
+		},
+		{
+			"name": "网易云音乐",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/NeteaseCloudMusic.png"
+		},
+		{
+			"name": "网易新闻",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/NeteaseNews.png"
+		},
+		{
+			"name": "腾讯视频",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Tencent_Video.png"
+		},
+		{
+			"name": "航旅纵横",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Umetrip.png"
+		},
+		{
+			"name": "芒果TV",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Mango_TV.png"
+		},
+		{
+			"name": "菜鸟",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Cainiao.png"
+		},
+		{
+			"name": "虎扑",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/HUPU.png"
+		},
+		{
+			"name": "财新",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/CaixinMedia.png"
+		},
+		{
+			"name": "贴吧",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Tieba.png"
+		},
+		{
+			"name": "起点读书",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/QiDian.png"
+		},
+		{
+			"name": "酷安",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/CoolApk.png"
+		},
+		{
+			"name": "阿里云盘",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/AliYunDrive.png"
+		},
+		{
+			"name": "高德地图",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Amap.png"
+		},
+		{
+			"name": "纵横小说",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ZongHeng.png"
+		},
+		{
+			"name": "朴朴超市",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PuPuMall.png"
+		},
+		{
+			"name": "滴滴出行",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/DiDi.png"
+		},
+		{
+			"name": "启信宝",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/QiXinBao.png"
+		},
+		{
+			"name": "转转",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ZhuanZhuan.png"
+		},
+		{
+			"name": "风鸟",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/RiskBird.png"
+		},
+		{
+			"name": "小象买菜",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/iMaiCai.png"
+		},
+		{
+			"name": "最右",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ZuiYou.png"
+		},
+		{
+			"name": "网易邮箱大师",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MailMaster.png"
+		},
+		{
+			"name": "小喵看书",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MiaoRead.png"
+		},
+		{
+			"name": "360智慧生活",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SafetyHome.png"
+		},
+		{
+			"name": "360摄像机",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/360SmartCamera.png"
+		},
+		{
+			"name": "萤石云视频",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/VideoGo.png"
+		},
+		{
+			"name": "飞客",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/FlyerTea.png"
+		},
+		{
+			"name": "收银通商户端",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ShouYinTongMerchant.png"
+		},
+		{
+			"name": "粉笔",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/FenBi.png"
+		},
+		{
+			"name": "乐播投屏",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TV_Assistant.png"
+		},
+		{
+			"name": "小黑盒",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/XiaoHeiHe.png"
+		},
+		{
+			"name": "雪球",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Snowball.png"
+		},
+		{
+			"name": "知识星球",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/UnnooQuan.png"
+		},
+		{
+			"name": "随手记",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/KingdeeMyMoney.png"
+		},
+		{
+			"name": "迅雷",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/XunLei.png"
+		},
+		{
+			"name": "夸克",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/QuarkBrowser.png"
+		},
+		{
+			"name": "书旗小说",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ShuQiCenterReader.png"
+		},
+		{
+			"name": "驾考宝典",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/JiaKaoBaoDian.png"
+		},
+		{
+			"name": "驾校一点通",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/JiaXiaoDrive.png"
+		},
+		{
+			"name": "堆糖",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/DuiTang.png"
+		},
+		{
+			"name": "汽车之家",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/AutoHome.png"
+		},
+		{
+			"name": "酷狗音乐",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/KuGou.png"
+		},
+		{
+			"name": "酷我音乐",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Kuwo.png"
+		},
+		{
+			"name": "配音秀",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/DubbingShow.png"
+		},
+		{
+			"name": "京东金融",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/JDJinRong.png"
+		},
+		{
+			"name": "漫客栈",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MKZ.png"
+		},
+		{
+			"name": "腾讯动漫",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TencentComic.png"
+		},
+		{
+			"name": "快看漫画",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/KuaiKanComic.png"
+		},
+		{
+			"name": "哔哩哔哩漫画",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/BiliComic.png"
+		},
+		{
+			"name": "支付宝",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/AliPay.png"
+		},
+		{
+			"name": "磁力宅播放器",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/XFuse.png"
+		},
+		{
+			"name": "中国移动",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ChinaMobile.png"
+		},
+		{
+			"name": "中国电信",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ChinaTetlcom.png"
+		},
+		{
+			"name": "中国联通",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ChinaUnicom.png"
+		},
+		{
+			"name": "爱思助手",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/i4Assistant.png"
+		},
+		{
+			"name": "Uki",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Uki.png"
+		},
+		{
+			"name": "斗鱼",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Douyu.png"
+		},
+		{
+			"name": "央视频",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YangShiPin.png"
+		},
+		{
+			"name": "爱啪思道",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Asspp.png"
+		},
+		{
+			"name": "豆瓣",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/DouBan.png"
+		},
+		{
+			"name": "Talkatone",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Talkatone.png"
+		},
+		{
+			"name": "百词斩",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/BaiCiZhan.png"
+		},
+		{
+			"name": "饿了么",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/eleme.png"
+		},
+		{
+			"name": "Discord",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Discord.png"
+		},
+		{
+			"name": "猫耳FM",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/CatEarFM.png"
+		},
+		{
+			"name": "OKX",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/OKX.png"
+		},
+		{
+			"name": "Elk",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Elk.png"
+		},
+		{
+			"name": "PayPal",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PayPal.png"
+		},
+		{
+			"name": "OneKey",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/OneKey.png"
+		},
+		{
+			"name": "Instagram",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Instagram.png"
+		},
+		{
+			"name": "X",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/X.png"
+		},
+		{
+			"name": "Signal",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Signal.png"
+		},
+		{
+			"name": "Yealico",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Yealico.png"
+		},
+		{
+			"name": "UpNote",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/UpNote.png"
+		},
+		{
+			"name": "giffgaff",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/giffgaff.png"
+		},
+		{
+			"name": "TapTap",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TapTap.png"
+		},
+		{
+			"name": "DeepL",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/DeepL.png"
+		},
+		{
+			"name": "美团外卖",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MeiTuanItakeaway.png"
+		},
+		{
+			"name": "Filen",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Filen.png"
+		},
+		{
+			"name": "彩云天气",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ColorfulClouds.png"
+		},
+		{
+			"name": "彩云天气Pro",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ColorfulCloudsPro.png"
+		},
+		{
+			"name": "Proton Calendar",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ProtonCalendar.png"
+		},
+		{
+			"name": "Proton Drive",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ProtonDrive.png"
+		},
+		{
+			"name": "Proton Mail",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ProtonMail.png"
+		},
+		{
+			"name": "Proton Pass",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ProtonPass.png"
+		},
+		{
+			"name": "Proton VPN",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ProtonVPN.png"
+		},
+		{
+			"name": "视频盒子",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/AnyVideoBox.png"
+		},
+		{
+			"name": "盖得排行",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/GuideRank.png"
+		},
+		{
+			"name": "闲鱼",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/FleaMarket.png"
+		},
+		{
+			"name": "拼多多",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PinDuoDuo.png"
+		},
+		{
+			"name": "网易大神",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/NetEaseGodlike.png"
+		},
+		{
+			"name": "深圳地铁",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SZMetro.png"
+		},
+		{
+			"name": "淘票票",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/TaoPiaoPiao.png"
+		},
+		{
+			"name": "百度地图",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/BaiduMap.png"
+		},
+		{
+			"name": "小蚕霸王餐",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/XiaoCan.png"
+		},
+		{
+			"name": "薄荷健康",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/BooHee.png"
+		},
+		{
+			"name": "脉脉",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MaiMai.png"
+		},
+		{
+			"name": "网易有道词典",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YoudaoDict.png"
+		},
+		{
+			"name": "美图秀秀",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MeiTu.png"
+		},
+		{
+			"name": "555电影",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/555DY.png"
+		},
+		{
+			"name": "天气",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/AppleWeather.png"
+		},
+		{
+			"name": "1919",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/1919.png"
+		},
+		{
+			"name": "剑网三无界",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SeasunJX3.png"
+		},
+		{
+			"name": "快手",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/KuaiShou.png"
+		},
+		{
+			"name": "Keep",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/Keep.png"
+		},
+		{
+			"name": "123云盘",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/123NetWorkDisk.png"
+		},
+		{
+			"name": "红果短剧",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/PhoenixVideo.png"
+		},
+		{
+			"name": "汽水音乐",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SodaMusic.png"
+		},
+		{
+			"name": "悟空浏览器",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/WukongBrowser.png"
+		},
+		{
+			"name": "美颜相机",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/MeituMYXJ.png"
+		},
+		{
+			"name": "有道翻译官",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YoudaoTrans.png"
+		},
+		{
+			"name": "YY",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/YY_Voice.png"
+		},
+		{
+			"name": "顺丰速运",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SF-Express.png"
+		},
+		{
+			"name": "健康160",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/91160.png"
+		},
+		{
+			"name": "掌上公交",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/SouguMyBus.png"
+		},
+		{
+			"name": "快递100",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/KuaiDi100.png"
+		},
+		{
+			"name": "成分喵",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/ChengFenMiao.png"
+		},
+		{
+			"name": "丰巢",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/FC_Box.png"
+		},
+		{
+			"name": "威锋",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/WPForum.png"
+		},
+		{
+			"name": "酷狗铃声",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/KGRing.png"
+		},
+		{
+			"name": "WPS",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/1024px/WPS.png"
+		},
+		{
+			"name": "App Store",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/AppStore.png"
+		},
+		{
+			"name": "BoxJS",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/BoxJS.png"
+		},
+		{
+			"name": "DNS防泄露",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/Prevent_DNS_Leaks.png"
+		},
+		{
+			"name": "HTTPDNS",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/HTTPDNS.png"
+		},
+		{
+			"name": "节点检测工具",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/Node_detection_tool.png"
+		},
+		{
+			"name": "OpenAI",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Website_icon/1024px/OpenAI.png"
+		},
+		{
+			"name": "RevenueCat",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Website_icon/1024px/RevenueCat.png"
+		},
+		{
+			"name": "腾讯广告",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Website_icon/1024px/TencentAd.png"
+		},
+		{
+			"name": "字节跳动广告",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Website_icon/1024px/ByteDanceAd.png"
+		},
+		{
+			"name": "Script-Hub",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/Script-Hub.png"
+		},
+		{
+			"name": "Sub-Store",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/Sub-Store.png"
+		},
+		{
+			"name": "Switch",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/Switch.png"
+		},
+		{
+			"name": "可莉",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/KeLee.png"
+		},
+		{
+			"name": "广告拦截",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/RemoveAds.png"
+		},
+		{
+			"name": "远程资源转换器",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/RemoteResourceConverter.png"
+		},
+		{
+			"name": "银行",
+			"url": "https://raw.githubusercontent.com/luestr/IconResource/main/Other_icon/1024px/Bank.png"
+		}
+	]
+}
