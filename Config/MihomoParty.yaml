@@ -4,7 +4,7 @@
 # @TgChannel         https://t.me/ddgksf2021
 # @WechatID          墨鱼手记
 # @Feedback          💡请通过邮件反馈问题[其它方式一概无视]：𝐝𝐝𝐠𝐤𝐬𝐟𝟐𝟎𝟏𝟑@𝟏𝟔𝟑.𝐜𝐨𝐦 💡
-# @UpdateTime        2024/11/8 09:28 UTC/GMT +8
+# @UpdateTime        2024/11/8 17:28 UTC/GMT +8
 # @Function          支持手动选择、自动测速、广告屏蔽、兜底切换、按国家分组节点、策略图标等  
 # @mihomo-party      https://github.com/mihomo-party-org/mihomo-party/releases
 # @howtouse          主界面添加本配置[覆写]，然后使用内置的[SubStore]添加机场，之后去[订阅管理]，在配置的[编辑信息]中绑定机场订阅，开启系统代理即可使用
@@ -16,18 +16,18 @@
 
 proxy-groups:
 #分流分组
-  - {name: ChatGPT, type: select, proxies: [美国节点, 手动切换], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png }
-  - {name: Google, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png }
-  - {name: Telegram, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png }
-  - {name: Youtube, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/YouTube.png }  
-  - {name: TikTok, type: select, proxies: [手动切换, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/TikTok.png }
-  - {name: 国际媒体, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png }
-  - {name: Twitter, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png }
-  - {name: 苹果服务, type: select, proxies: [DIRECT, 手动切换, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png }
+  - {name: 全球手动, type: select, include-all: true, icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png }
+  - {name: ChatGPT, type: select, proxies: [美国节点, 全球手动], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png }
+  - {name: Google, type: select, proxies: [自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,全球手动  ], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png }
+  - {name: Telegram, type: select, proxies: [自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,全球手动  ], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png }
+  - {name: Youtube, type: select, proxies: [自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,全球手动  ], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/YouTube.png }  
+  - {name: TikTok, type: select, proxies: [日本节点, 台湾节点, 美国节点, 狮城节点, 全球手动], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/TikTok.png }
+  - {name: 国际媒体, type: select, proxies: [自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,全球手动  ], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png }
+  - {name: Twitter, type: select, proxies: [自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,全球手动  ], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png }
+  - {name: 苹果服务, type: select, proxies: [DIRECT, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Apple.png }
   - {name: 哔哩哔哩, type: select, proxies: [DIRECT, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png }
   - {name: AdBlock, type: select, proxies: [REJECT, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Adblock.png }
-  - {name: 手动切换, type: select, include-all: true, icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Static.png }
-  - {name: 兜底切换, type: select, proxies: [手动切换, DIRECT, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Final.png }
+  - {name: 兜底切换, type: select, proxies: [自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点,全球手动  ], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Final.png }
   
 #节点分组
   - {name: 自动选择, type: url-test, include-all: true, interval: 600, tolerance: 50,  icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Urltest.png }
